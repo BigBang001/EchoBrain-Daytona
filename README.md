@@ -123,11 +123,6 @@ EchoBrain listens to voice commands, processes them using natural language under
    python run.py
    ```  
 
----
-
-## 📄 License  
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
