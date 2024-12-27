@@ -9,6 +9,8 @@ Once you finish your sample and it gets merged, you can open a PR in the Daytona
 
 EchoBrain is a cutting-edge voice-controlled assistant powered by AI, capable of understanding and executing complex commands on both desktop and mobile devices. With features like facial recognition and seamless phone integration, EchoBrain automates tasks and offers a secure, efficient user experience.
 
+❓ EchoBrain isn’t just a name; it’s a concept that merges cutting-edge artificial intelligence with natural human interaction. Imagine speaking to a smart assistant that not only listens but understands and responds as if it were a conversation with your own brain. The *Echo* symbolizes how your voice reverberates into action, and the *Brain* signifies the deep computational intelligence behind it. This unique combination creates an experience where commands are processed and executed, turning your voice into a powerful tool for automation and smart interaction.
+
 ---
 
 ## 🚀 Getting Started  
