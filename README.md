@@ -113,7 +113,7 @@ EchoBrain listens to voice commands, processes them using natural language under
 
 1. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/BigBang001/EchoBrain.git
+   git clone https://github.com/BigBang001/EchoBrain-Daytona.git
    cd EchoBrain
    ```  
 2. **Install Dependencies**:  
