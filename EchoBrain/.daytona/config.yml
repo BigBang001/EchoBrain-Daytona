@@ -1,0 +1,8 @@
+name: EchoBrain-Daytona
+language: python
+build:
+  - pip install -r requirements.txt
+run:
+  - python app.py
+devcontainer:
+  dockerfile: Dockerfile
