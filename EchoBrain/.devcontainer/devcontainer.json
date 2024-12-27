@@ -1,0 +1,27 @@
+{
+    "name": "EchoBrain Dev Container",
+    "image": "mcr.microsoft.com/vscode/devcontainers/python:3.9",
+    "features": {
+      "python": "latest",
+      "nodejs": "latest",
+      "tensorflow": "latest",
+      "opencv": "latest",
+      "sqlite": "latest",
+      "pyttsx3": "latest",
+      "speechrecognition": "latest",
+      "eel": "latest",
+      "pyautogui": "latest",
+      "pyaudio": "latest",
+      "hugchat": "latest"
+    },
+    "extensions": [
+      "ms-python.python",
+      "ms-python.vscode-pylance",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "vscode.html-css",
+      "daytonaio.daytona"
+    ],
+    "postCreateCommand": "pip install -r requirements.txt && npm install"
+  }
+  
