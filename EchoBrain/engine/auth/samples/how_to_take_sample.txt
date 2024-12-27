@@ -1,0 +1,3 @@
+RUN THE sample.py file to capture the samples of your face to train the model to recoganize face for authentication
+Then the samples of your face appears in the samples folder,here under this text file
+Than train those samples by running the trainer.py file
