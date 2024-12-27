@@ -27,7 +27,7 @@ EchoBrain is a cutting-edge voice-controlled assistant powered by AI, capable of
 4. **Run the Application**:  
    Launch the assistant with:  
    ```bash  
-   python rum.py
+   python run.py
    ```  
 
 ---
